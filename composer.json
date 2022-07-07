@@ -1,0 +1,7 @@
+{
+    "name": "izzypay/sdk",
+    "description": "SDK for IzzyPay widget",
+    "require": {
+        "php": ">=8.0"
+    }
+}
